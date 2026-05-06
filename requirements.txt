@@ -1,3 +1,7 @@
 streamlit
 openai
 pydub
+streamlit
+openai
+PyPDF2
+langdetect
